@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body img {
+    width: 100vw;
+    height: 100vh;
+    background: no-repeat top center; 
+    background-size: cover;
+    background-attachment: fixed;
+}
