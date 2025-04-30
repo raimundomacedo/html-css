@@ -35,9 +35,9 @@ h1 {
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.493);
 }
 
-img#phone { display: none; }
+img#phone { display: block; }
 img#tablet { display: none; }
 img#print { display: none; }
-img#pc { display: none; 
+img#pc { display: none; }
 img#tv { display: none; }
 
